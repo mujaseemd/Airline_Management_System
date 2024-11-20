@@ -19,7 +19,7 @@ The Airline Management System is a comprehensive application designed to simplif
 
 ## How to Run the Project
 1. **Setup Database**:
-   - Import the SQL file into phpMyAdmin to set up the database tables: 'loginpage',`manageflight`, `managepassenger`and `ticket_booking`.
+   - Import the SQL file into phpMyAdmin to set up the database tables: `loginpage`,`manageflight`, `managepassenger`and `ticket_booking`.
 
 2. **Install Required Dependencies**:
    - Download and include the MySQL Connector JAR file (`mysql-connector-j-9.1.0.jar` or higher) in your project's library.  
@@ -48,12 +48,16 @@ The Airline Management System is a comprehensive application designed to simplif
 Include screenshots of:
 - The login screen.
   ![image](https://github.com/user-attachments/assets/a8f74433-80c7-42d0-ab4f-42e40e673558)
+  
 - User dashboard.
   ![image](https://github.com/user-attachments/assets/2909e90e-ff75-4480-826d-c84463c7209f)
+  
 - Admin dashboard.
   ![image](https://github.com/user-attachments/assets/2e393d56-5d37-4cfd-8921-77b8f5169abe)
+  
 - Ticket booking screen.
   ![image](https://github.com/user-attachments/assets/051a59d7-3a6d-46bc-a2de-4be2756c141b)
+  
 - Ticket Cancellation screen.
   ![image](https://github.com/user-attachments/assets/a2ffcc7c-c1da-4a46-a930-d71cd7eb339f)
 
